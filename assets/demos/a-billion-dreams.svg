@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+<rect width="800" height="500" fill="#0c0c12"/>
+<g fill="#00ffc8"><circle cx="400" cy="230" r="2"/><circle cx="380" cy="215" r="1.5" opacity=".6"/><circle cx="422" cy="244" r="1.5" opacity=".6"/><circle cx="360" cy="250" r="1" opacity=".4"/><circle cx="440" cy="205" r="1" opacity=".4"/></g>
+<text x="400" y="292" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="22" fill="#f4f4f8">A Billion Dreams</text>
+<text x="400" y="322" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13" fill="#5c5c6e">scroll-driven WebGL portrait</text>
+</svg>
