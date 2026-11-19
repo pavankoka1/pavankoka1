@@ -19,13 +19,6 @@ I care about frame budgets, smooth interactions, and shipping polished interacti
   <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,js,webgl,threejs,html,css,tailwind,nodejs&theme=dark" />
 </p>
 
-### 📊 Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pavankoka1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavankoka1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
 ### 🚀 Selected Work
 
 | Project | What it is | Live |
