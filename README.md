@@ -59,7 +59,7 @@ Most of my week is spent inside the Chrome Performance panel, so this page is la
       <sub><code>SVG</code> <code>canvas</code> <code>path tracing</code></sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://webgl-particle-bomb.vercel.app"><img src="./assets/demos/webgl-particle-bomb.jpg" alt="WebGL particle bomb"></a>
+      <a href="https://webgl-particle-bomb.vercel.app"><img src="./assets/demos/webgl-particle-bomb.gif" alt="WebGL particle bomb"></a>
       <br><b>Particle Bomb</b><br>
       <sub>A GPU-driven particle explosion.</sub><br>
       <sub><code>WebGL</code> <code>particles</code> <code>shaders</code></sub>
@@ -104,6 +104,9 @@ Most of my week is spent inside the Chrome Performance panel, so this page is la
 
 <p>
   <a href="https://koka-lab.vercel.app"><img src="https://img.shields.io/badge/koka--lab-portfolio-00ffc8?style=flat-square&labelColor=050508" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/pavan-koka-419680148"><img src="https://img.shields.io/badge/LinkedIn-pavan--koka-00ffc8?style=flat-square&labelColor=050508&logo=linkedin&logoColor=00ffc8" alt="LinkedIn"></a>
+  <a href="https://x.com/pavankoka"><img src="https://img.shields.io/badge/X-%40pavankoka-00ffc8?style=flat-square&labelColor=050508&logo=x&logoColor=00ffc8" alt="X"></a>
+  <a href="mailto:pavankoka1@gmail.com"><img src="https://img.shields.io/badge/email-pavankoka1%40gmail.com-00ffc8?style=flat-square&labelColor=050508&logo=gmail&logoColor=00ffc8" alt="Email"></a>
 </p>
 
 <sub>React · TypeScript · Next.js · WebGL · Three.js · Canvas · WAAPI · Playwright</sub>
